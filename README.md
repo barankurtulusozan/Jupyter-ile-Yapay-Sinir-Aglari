@@ -11,4 +11,4 @@ iPython kitaplarını indirerek yerelde çalıştırabilir ya da  [nbviewer](htt
 
 Python Jupyter ile ilgili ücretsiz Türkçe eğitim materyaline rastlamadım. Zaman olursa ileride eklemek isterim. 
 
-Note: Turkish translation of the forked repo. All rights and content belogs to its respectable owners, Welch Labs and Stephen Welch.
+Note: Turkish translation of the forked repo. All rights belong to their respective owners, Welch Labs and Stephen Welch.
