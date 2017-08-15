@@ -1,12 +1,3 @@
-# Neural Networks Demystified
-# Part 5: Numerical Gradient Checking
-#
-# Supporting code for short YouTube series on artificial neural networks.
-#
-# Stephen Welch
-# @stephencwelch
-
-
 ## ----------------------- Part 1 ---------------------------- ##
 import numpy as np
 
